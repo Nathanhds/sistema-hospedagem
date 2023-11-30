@@ -1,0 +1,14 @@
+/Users/nathansilva/Programacao/dotnet/hospedagem/bin/Debug/net7.0/hospedagem
+/Users/nathansilva/Programacao/dotnet/hospedagem/bin/Debug/net7.0/hospedagem.deps.json
+/Users/nathansilva/Programacao/dotnet/hospedagem/bin/Debug/net7.0/hospedagem.runtimeconfig.json
+/Users/nathansilva/Programacao/dotnet/hospedagem/bin/Debug/net7.0/hospedagem.dll
+/Users/nathansilva/Programacao/dotnet/hospedagem/bin/Debug/net7.0/hospedagem.pdb
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/hospedagem.AssemblyInfoInputs.cache
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/hospedagem.AssemblyInfo.cs
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/hospedagem.csproj.CoreCompileInputs.cache
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/hospedagem.dll
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/refint/hospedagem.dll
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/hospedagem.pdb
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/hospedagem.genruntimeconfig.cache
+/Users/nathansilva/Programacao/dotnet/hospedagem/obj/Debug/net7.0/ref/hospedagem.dll
